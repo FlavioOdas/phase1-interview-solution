@@ -1,0 +1,11 @@
+.bg-medium.bg-primary .btn.primary > .cta-body {
+  border-color: #fff;
+  background-color: transparent;
+  color: #fff;
+}
+
+.bg-medium.bg-primary .btn.secondary > .cta-body {
+  border-color: #fff;
+  background-color: #fff;
+  color: #0076ce;
+}
